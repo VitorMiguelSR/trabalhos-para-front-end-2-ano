@@ -8,6 +8,13 @@
 
 body{
     background-color: pink;
+    margin: 0;
+    padding-top: 60px;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 10vh 10vw;
 }
 
 .imagemLink{
